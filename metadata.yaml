@@ -1,0 +1,26 @@
+_repo: L-Aiglon-Drame-en-six-actes-en-vers_66793
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rostand, Edmond
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '575'
+    url: http://www.gutenberg.org/2009/agents/575
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmond_Rostand
+    - https://fr.wikipedia.org/wiki/Edmond_Rostand
+description: ''
+gutenberg_issued: '2021-11-22'
+identifiers:
+  gutenberg: '66793'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Bonaparte, François-Charles-Joseph, Herzog von Reichstadt, 1811-1832 -- Drama'
+- GITenberg
+title: 'L''Aiglon: Drame en six actes, en vers'
+url: http://www.gutenberg.org/ebooks/66793
